@@ -32,3 +32,5 @@
 [user]
 
   useconfigonly = true
+	email = fabien.glory@decathlon.com
+	name = Fabien Glory
